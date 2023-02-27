@@ -1,2 +1,2 @@
-# razz
-Useful Bash Scripts for Rasberry Pi
+# linni
+Useful Bash Scripts for linux
